@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    color: #5a5f59b1;
+    background-color: white;
 }
 .banner{
     background-image: url('banner.png');

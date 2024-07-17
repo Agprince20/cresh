@@ -21,22 +21,21 @@ include_once("asset/header.php");
         <img src="student.png" alt="">
         <h3>Experience the AC Online Campus</h3>
         <p>AC Online students enjoy flexibility with their programs, plus access to plenty of resources that support</p>
-        <h6>₦500</h6>
-        <button class="buy-1">buy now</button>
+        <!-- <h6>₦500</h6>
+        <button class="buy-1">buy now</button> -->
     </div>
     <div class="content">
         <img src="student.png" alt="">
         <h3>Experience the AC Online Campus</h3>
         <p>AC Online students enjoy flexibility with their programs, plus access to plenty of resources that support</p>
-        <h6>₦500</h6>
-        <button class="buy-1">buy now</button>
+        
     </div>
     <div class="content">
         <img src="student.png" alt="">
         <h3>Experience the AC Online Campus</h3>
         <p>AC Online students enjoy flexibility with their programs, plus access to plenty of resources that support</p>
-        <h6>₦500</h6>
-        <button class="buy-1">buy now</button>
+        <!-- <h6>₦500</h6>
+        <button class="buy-1">buy now</button> -->
     </div>
 </div> 
     
@@ -69,7 +68,7 @@ include_once("asset/header.php");
     </button></div>
 </div>
 </body>
-</html>br
+</html>
 <?php
 include_once('asset/footer.php');
 ?>

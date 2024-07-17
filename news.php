@@ -5,14 +5,15 @@ include_once('asset/header.php');
 <html lang="en">
 <head>
    <meta charset="UTF-8">
+   
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Document</title>
 </head>
-<body>
+<body style='background-color:#'>
    
 
 <!-- Campus, Events and Notice Board HTML Starts -->
-<div class="main-section" style="background:#f0f3fa">
+<div class="main-section" style="background:#fff">
   <div class="container">
     <!-- Campus News Section -->
     <div class="event">
@@ -21,25 +22,25 @@ include_once('asset/header.php');
         <marquee direction="up" scrollamount="7" style="height:340px;">
           <ul>
             <li>
-              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="images/new.gif">
+              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="student.png">
             </li>
             <li>
-              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="images/new.gif">
+              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="student.png">
             </li>
             <li>
-              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="images/new.gif">
+              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="student.png">
             </li>
             <li>
-              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="images/new.gif">
+              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="student.png">
             </li>
             <li>
-              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="images/new.gif">
+              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="student.png">
             </li>
             <li>
-              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="images/new.gif">
+              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="student.png">
             </li>
             <li>
-              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="images/new.gif">
+              <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="student.png">
             </li>
           </ul>
         </marquee>
@@ -77,3 +78,7 @@ include_once('asset/header.php');
             <img src="logo.png" alt="">
       </body>
 </html>
+
+<?php
+include_once("asset/footer.php")
+?>
